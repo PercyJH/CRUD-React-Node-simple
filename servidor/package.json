@@ -1,0 +1,19 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "la_fe_es_lo_ultimo_que_se_pierde.js",
+  "scripts": {
+    "Forest": "nodemon la_fe_es_lo_ultimo_que_se_pierde.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2",
+    "nodemon": "^2.0.15"
+  }
+}
